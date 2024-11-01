@@ -1,5 +1,7 @@
 # Notfall Engineers Contributor Guide and Notcoins Reward Structure
 
+![Notfall Engineers Header](assets/notfall_header.png)
+
 Welcome to Notfall Engineers! We’re thrilled to have you join us on our mission to transform emergency building maintenance through **AI**, **Cloud Computing**, and **Blockchain** technologies. This guide provides everything you need to understand your role, our platform’s goals, and the rewards awaiting contributors who support us in building an industry-leading solution.
 
 Contributions at Notfall Engineers aren’t just recognized—they become part of the company itself through **Notcoins**, which represent shares in Notfall. Here, we explain how Notcoins work, our valuation model, the essential role of validators, contributor governance, and much more.
@@ -9,6 +11,8 @@ Contributions at Notfall Engineers aren’t just recognized—they become part o
 ---
 
 ## 🚀 About Notfall Engineers: Perspectives and Goals
+
+![Core Technologies](assets/core_technologies.png)
 
 ### Users’ Perspective
 For **tenants**, **property managers**, and **business owners**, Notfall Engineers provides an on-demand, seamless way to manage emergency maintenance:
@@ -36,6 +40,8 @@ For **contributors**, Notfall Engineers offers the opportunity to create a lasti
 ---
 
 ## 🔢 Notcoins and Equity Allocation
+
+![Equity Distribution Infographic](assets/equity_distribution.png)
 
 - **Total Notcoins Supply**: 20,000,000 Notcoins (fixed supply)
 - **Initial Value per Notcoin**: Based on the initial valuation and updated as milestones are reached.
@@ -67,7 +73,9 @@ Updates occur monthly, reflecting the latest company metrics.
 
 ## 🎖 Advanced Valuation Scenarios
 
-As Notfall Engineers grows, its valuation reflects key milestones, user growth, and revenue increases. Below are scenarios illustrating possible changes in Notcoin value over time.
+The valuation of Notfall Engineers grows based on milestones and user growth. Here’s how Notcoin value might change in different growth scenarios.
+
+![Valuation Scenarios Infographic](assets/valuation_scenarios.png)
 
 ### Scenario 1: Early Growth Phase
 - **Initial Valuation (V)**: $500,000
@@ -81,7 +89,7 @@ As Notfall Engineers grows, its valuation reflects key milestones, user growth, 
   \]
 
 ### Scenario 2: Post-Milestone Growth
-- **Valuation (V)**: $2,500,000 following major milestones (e.g., predictive maintenance launch).
+- **Valuation (V)**: $2,500,000 following major milestones.
 - **Price per Notcoin**:
   \[
   \text{Price per Notcoin} = \frac{2,500,000}{20,000,000} = 0.125 \text{ USD}
@@ -106,15 +114,17 @@ As Notfall Engineers grows, its valuation reflects key milestones, user growth, 
 
 ## 🧑‍⚖️ Validator Roles and Reward Structure
 
-Validators are critical in maintaining high-quality contributions, helping to safeguard the platform’s functionality, and upholding standards. **Validators** are contributors responsible for ensuring that tasks meet quality standards, confirming that milestones are achieved, and reviewing high-impact features.
+Validators ensure high-quality contributions and validate tasks for quality and impact.
+
+![Validator Roles Diagram](assets/validator_roles.png)
 
 ### Validator Reward Equation
-Validators receive Notcoins based on task impact, calculated as:
+Validators receive Notcoins based on task impact:
 \[
 V_{\text{reward}} = 10 + (5 \times I)
 \]
 where:
-- **I** = Impact factor (rated 1 to 3)
+- **I** = Impact factor (1 to 3)
 
 For example, a high-impact task (impact factor 3) would reward:
 \[
@@ -122,12 +132,10 @@ V_{\text{reward}} = 10 + (5 \times 3) = 25 \text{ Notcoins}
 \]
 
 ### Validator Tasks
-Validators review contributions across areas such as:
+Validators ensure quality through:
 - **Milestone Verification**: Confirming major features and growth milestones.
 - **Critical Feature Testing**: Validating algorithms, compliance tools, and AI models.
-- **User Experience Audits**: Ensuring a seamless, intuitive interface for users and engineers.
-
-Validators play a critical role in Notfall’s growth trajectory, and their work is rewarded with additional equity and recognition.
+- **User Experience Audits**: Ensuring a seamless, intuitive interface.
 
 ---
 
@@ -135,6 +143,8 @@ Validators play a critical role in Notfall’s growth trajectory, and their work
 
 ### Phase 1: Foundation Development (Months 1-3)
 **Goal**: Establish onboarding, registration, task submission, AI task-matching, the engineer vetting process, and customizable dashboard components.
+
+![Development Phases Timeline](assets/development_phases.png)
 
 **Key Tasks**:
 - **Onboarding and Registration**:
@@ -157,14 +167,13 @@ Validators play a critical role in Notfall’s growth trajectory, and their work
   - Create modular UI widgets for tracking tasks and notifications.
   - Implement an elegant, user-customizable dashboard design.
 
-- **Database Models**:
-  - Set up models for users, engineers, tasks, and vetting.
-
 ---
 
 ## 💰 Contributor Levels, Rewards, and Milestones
 
-Contributors achieve different levels based on the complexity of completed tasks, unlocking rewards and equity milestones:
+Contributors achieve different levels based on task complexity, unlocking rewards and equity milestones.
+
+![Contributor Levels Path](assets/contributor_levels.png)
 
 1. **Beginner**: Basic UI components, API connections.
    - **Rewards**: 10 Notcoins per task.
@@ -184,10 +193,18 @@ Contributors achieve different levels based on the complexity of completed tasks
 ## 🎓 Contributor Learning and Development
 
 To support contributor growth, Notfall Engineers offers:
-- **Interactive Modules**: Learn about advanced topics such as feature validation, AI model development, and compliance standards.
+- **Interactive Modules**: Learn advanced topics such as feature validation, AI model development, and compliance standards.
 - **Certification Tracks**: Complete tracks in fields like AI, Cloud, and Blockchain to unlock additional Notcoins and Validator eligibility.
 
 Contributors who complete these modules and certifications can also fast-track their promotion to higher impact levels.
+
+---
+
+## 🎉 Community Engagement and Recognition
+
+![Community Engagement](assets/community_engagement.png)
+
+Join our **Slack Workspace**, attend **Quarterly Town Halls**, and be recognised through **Weekly Contributor Spotlights**. Community engagement is essential to the Notfall team, fostering collaboration and celebrating contributions.
 
 ---
 
@@ -197,4 +214,7 @@ By contributing to Notfall Engineers, you’re helping to build a smarter, safer
 
 For questions or guidance, connect with us on Slack or GitHub Discussions. Let’s work together to transform emergency maintenance!
 
+![Join Us Banner](assets/join_us_banner.png)
+
 ---
+

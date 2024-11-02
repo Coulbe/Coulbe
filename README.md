@@ -18,12 +18,13 @@ At **Notfall Engineers**, I work on projects that push the boundaries of technol
 
 For a detailed guide on contributions and rewards, see the **Notfall Engineers Contributor Guide**. Whether you’re interested in data-driven solutions, software engineering, blockchain, cloud computing or AI, there’s a place for you to make a meaningful impact at Notfall Engineers.
 
----
-Let’s connect, collaborate, and explore the future of data-driven solutions together!
----
+### Let’s connect, collaborate, and explore the future of data-driven solutions together!
 
-### Notfall Engineers Contributor Guide and Notcoins Reward Structure
 
+
+---
+Notfall Engineers Contributor Guide and Notcoins Reward Structure
+---
 ![Notfall Engineers Header](assets/notfall_header.png)
 
 Welcome to **Notfall Engineers**! Myself and the development team at Notfall are thrilled to have you here as part of our mission to revolutionise emergency building maintenance through **AI**, **Cloud Computing**, and **Blockchain** technologies. This guide provides everything you need to understand your role, our platform’s goals, and the rewards awaiting contributors who support us in building an industry-leading solution.

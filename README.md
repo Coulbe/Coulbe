@@ -19,6 +19,9 @@ At **Notfall Engineers**, I work on projects that push the boundaries of technol
 For a detailed guide on contributions and rewards, see the **Notfall Engineers Contributor Guide**. Whether you’re interested in data-driven solutions, software engineering, blockchain, cloud computing or AI, there’s a place for you to make a meaningful impact at Notfall Engineers.
 
 ### Let’s connect, collaborate, and explore the future of data-driven solutions together!
+> **Ready to get started?** ➡️ **[Join Notfall Engineers on GitHub](https://github.com/Coulbe/notfallengineers)**
+
+
 
 
 

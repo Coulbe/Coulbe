@@ -34,7 +34,6 @@ Notfall Engineers leverages a powerful tech stack, including:
 - **Cloud**: Google Cloud Platform for scalability and data management
 
 
-
 ## 🎉 Join the Notfall Engineers Community
 
 Ready to make a difference? Join **Notfall Engineers** today! Connect with us on [GitHub](https://github.com/Coulbe/notfallengineers), apply as a contributor, and become part of a project shaping the future of emergency building maintenance.

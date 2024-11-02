@@ -8,7 +8,7 @@ At **Notfall Engineers**, I work on projects that push the boundaries of technol
 
 🔹 **Data-Driven Decision Making**: I help power **predictive maintenance** and **AI-based task-matching** systems. These intelligent solutions leverage data science to anticipate and resolve maintenance issues before they become critical, ensuring reliability and prompt service.
 
-🔹 **Scalable Data Engineering**: Through **cloud-based architectures**, I’m building scalable data workflows that provide secure and fast data access for real-time maintenance tracking and management. This allows our platform to support growing user demands while maintaining high standards for performance and security.
+🔹 **Scalable Data Engineering**: Through **cloud-based architectures**, I’m building scalable data workflows that provide secure and fast data access for real-time maintenance tasks tracking and management. This allows our platform to support growing user demands while maintaining high standards for performance and security.
 
 🔹 **Blockchain for Data Transparency**: With **Blockchain technology**, we’re ensuring that all maintenance records are securely managed and tamper-proof, enhancing transparency and trust for property managers, engineers, and users alike.
 

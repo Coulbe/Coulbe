@@ -1,3 +1,5 @@
+💫 About Me:
+
 # Notfall Engineers Contributor Guide and Notcoins Reward Structure
 
 ![Notfall Engineers Header](assets/notfall_header.png)

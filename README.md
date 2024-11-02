@@ -6,7 +6,7 @@ Hello, I’m **Coulbe**! I’m deeply enthusiastic about **data science**, **dat
 
 At **Notfall Engineers**, I work on projects that push the boundaries of technology to make building maintenance faster, safer, and more efficient. Here’s how my expertise aligns with our mission:
 
-🔹 **Data-Driven Decision Making**: I help power **predictive maintenance** and **AI-based task-matching** systems. These intelligent solutions leverage data science to anticipate and resolve maintenance issues before they become critical, ensuring reliability and prompt service.
+🔹 **Data-Driven Decision Making**: I help power **predictive maintenance** and **AI-based task-matching** systems. These intelligent solutions leverage data science to anticipate and resolve buildings maintenance issues before they become critical, ensuring reliability and prompt service.
 
 🔹 **Scalable Data Engineering**: Through **cloud-based architectures**, I’m building scalable data workflows that provide secure and fast data access for real-time maintenance tasks tracking and management. This allows our platform to support growing user demands while maintaining high standards for performance and security.
 

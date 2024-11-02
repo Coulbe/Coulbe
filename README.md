@@ -65,7 +65,7 @@ As a **User** of the Notfall Engineers platform—whether a property manager, bu
 As a **Contributor**, your efforts directly impact Notfall Engineers' growth and success. You’ll enjoy:
 - **Equity Ownership**: Earn **Notcoins**, which represent shares in the company and grow with its value.
 - **Professional Development**: Work alongside industry experts, enhancing your skills and portfolio.
-- **Community Recognition**: Your contributions are rewarded and publicly recognized within our developer community.
+- **Community Recognition**: Your contributions are rewarded and publicly recognised within our developer community.
 
 
 

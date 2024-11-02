@@ -2,83 +2,97 @@
 
 ![Notfall Engineers Header](assets/notfall_header.png)
 
-Welcome to Notfall Engineers! We’re thrilled to have you join us on our mission to transform emergency building maintenance through **AI**, **Cloud Computing**, and **Blockchain** technologies. This guide provides everything you need to understand your role, our platform’s goals, and the rewards awaiting contributors who support us in building an industry-leading solution.
+Welcome to **Notfall Engineers**! We’re thrilled to have you here as part of our mission to revolutionize emergency building maintenance through **AI**, **Cloud Computing**, and **Blockchain** technologies. This guide provides everything you need to understand your role, our platform’s goals, and the rewards awaiting contributors who support us in building an industry-leading solution.
 
-Contributions at Notfall Engineers aren’t just recognized—they become part of the company itself through **Notcoins**, which represent shares in Notfall. Here, we explain how Notcoins work, our valuation model, the essential role of validators, contributor governance, and much more.
+Contributions aren’t just recognized—they become part of Notfall Engineers itself through **Notcoins**, which represent shares in the company. Here’s how it works, from the equity model to the valuation scenarios, validators, and more.
 
 **Note**: Some links and resources are still being configured and will be available soon.
 
 ---
 
-## 🚀 About Notfall Engineers: Perspectives and Goals
+## 📌 About Notfall Engineers
 
-![Core Technologies](assets/core_technologies.png)
+**Notfall Engineers** is an on-demand platform dedicated to transforming emergency building maintenance with a focus on safety, efficiency, and responsiveness. By leveraging advanced technologies, we aim to solve challenges such as:
 
-### Users’ Perspective
-For **tenants**, **property managers**, and **business owners**, Notfall Engineers provides an on-demand, seamless way to manage emergency maintenance:
-- **Instant Task Submission**: Simple interfaces for quick maintenance requests.
-- **Real-Time Updates**: Notifications on task status, ETA, and engineer details.
-- **Trustworthy Services**: Verified engineers with high customer ratings ensure quality and reliability.
-  
-For **property managers and business owners**, the platform also includes:
-- **Task Management Dashboard**: A centralised hub for tracking tasks.
-- **Automated Compliance Documentation**: Real-time access to RAMS, SLAs, and permits for regulatory compliance.
-- **Approval Control**: Prioritise tasks and monitor performance standards with ease.
+- **Delayed Response Times**: Fast access to qualified engineers for immediate service.
+- **Inefficient Task Matching**: AI-driven matching to connect tasks with the most skilled professionals.
+- **Data Security**: Blockchain-powered transparency and data management.
 
-### Engineers’ Perspective
-Vetted engineers benefit from Notfall Engineers as it streamlines task acquisition, compliance, and customer relations through:
-- **Verified Profiles**: Showcase skills, certifications, and customer feedback for credibility.
-- **Automated Compliance**: Access to RAMS, SLAs, and permits without extra admin work.
-- **Flexible Earnings**: Choose to receive payment in **Notcoins** (for equity) or **fiat currency**.
-
-### Contributors’ Perspective
-For **contributors**, Notfall Engineers offers the opportunity to create a lasting impact. Each contribution directly enhances the platform, which you can view in terms of:
-- **Ownership**: Notcoins earned represent your share in the company.
-- **Skill Development**: Gain hands-on experience in building advanced, real-world technology.
-- **Recognition and Reward**: Your work is visible to the community and rewarded through equity-based Notcoins.
+Our goals are ambitious, and we’re excited to have contributors join us on this journey! Interested in learning more? Check out my profile at [Coolbe](https://github.com/Coolbe) or visit our main repository at [Notfall Engineers](https://github.com/Coolbe/notfallengineers) for updates and contributions.
 
 ---
 
-## 🔢 Notcoins and Equity Allocation
+## 🎯 Why Contribute?
 
-![Equity Distribution Infographic](assets/equity_distribution.png)
+Joining Notfall Engineers offers contributors:
 
-- **Total Notcoins Supply**: 20,000,000 Notcoins (fixed supply)
-- **Initial Value per Notcoin**: Based on the initial valuation and updated as milestones are reached.
-- **Total Mined Notcoins**: Updated weekly as tasks are completed.
+- **Practical Experience**: Work on real-world projects with the latest technology.
+- **Equity Rewards**: Earn **Notcoins**, representing your ownership in Notfall Engineers.
+- **Professional Growth**: Collaborate with experts, expand your network, and gain recognition.
 
-### Equity Distribution Equation
-Each Notcoin represents a fraction of Notfall’s total equity. Your **Ownership Percentage (P)** is calculated as:
-\[
-P = \frac{N_{\text{earned}}}{N_{\text{total mined}}} \times 100
-\]
-where:
-- \( N_{\text{earned}} \) = Notcoins you’ve earned,
-- \( N_{\text{total mined}} \) = Total Notcoins mined across all contributors to date.
+---
 
-For example, if 2 million Notcoins have been mined and you’ve earned 40,000:
+## 🌟 Open Roles and Requirements
+
+We are currently looking for talented contributors in these areas:
+
+### Frontend Developer
+- **Responsibilities**: Develop user-friendly interfaces using React and Tailwind CSS.
+- **Equity-Based Rewards**: Beginner tasks (10 Notcoins), Intermediate tasks (25 Notcoins), Advanced tasks (75+ Notcoins).
+
+### Backend Developer
+- **Responsibilities**: Design APIs and backend structures using Node.js, Express, and MongoDB.
+- **Equity-Based Rewards**: Intermediate tasks (25 Notcoins), Advanced tasks (up to 100 Notcoins).
+
+### QA Engineer
+- **Responsibilities**: Design and run tests for frontend and backend stability.
+- **Equity-Based Rewards**: Beginner tasks (10 Notcoins), Intermediate tasks (25 Notcoins).
+
+### Technical Writer
+- **Responsibilities**: Maintain documentation, write user guides, and create API references.
+- **Equity-Based Rewards**: Beginner tasks (10 Notcoins), Intermediate tasks (25 Notcoins).
+
+For detailed roles and specific requirements, visit our [Open Roles and Requirements](contributions/open-roles.md).
+
+---
+
+## 🛠️ How to Get Started
+
+1. **Submit an Application**: Complete the [Application Template](contributions/application-template.md) and submit it as an issue.
+2. **Onboarding**: Follow the [Onboarding Guide](contributions/onboarding-guide.md) to set up your environment.
+3. **Contribute**: Access tasks on the [Project Board](https://github.com/Coulbe/notfallengineers/projects) and track your Notcoins in the Contributor Dashboard.
+
+---
+
+## 💰 Notcoins Reward Structure and Equity Share
+
+Contributions are rewarded with **Notcoins**, representing shares in Notfall Engineers. 
+
+- **Total Supply**: 20,000,000 Notcoins (fixed supply).
+- **Earning Notcoins**: Based on task complexity and impact.
+- **Ownership Percentage**:
+  \[
+  P = \frac{N_{\text{earned}}}{N_{\text{total mined}}} \times 100
+  \]
+  Where:
+  - \( N_{\text{earned}} \) = Your total Notcoins earned.
+  - \( N_{\text{total mined}} \) = Total Notcoins mined by all contributors.
+
+For example, if 2,000,000 Notcoins have been mined and you've earned 40,000 Notcoins:
 \[
 P = \frac{40,000}{2,000,000} \times 100 = 2\%
 \]
 
-### Contributor Dashboard Tracking
-On the **Contributor Dashboard**, you can track your:
-- **Notcoin balance**
-- **Ownership percentage**
-- **Latest company valuation**
-
-Updates occur monthly, reflecting the latest company metrics.
+You can track your Notcoin balance and ownership percentage on the **Contributor Dashboard**, updated monthly.
 
 ---
 
-## 🎖 Advanced Valuation Scenarios
+## 📈 Advanced Valuation Scenarios
 
-The valuation of Notfall Engineers grows based on milestones and user growth. Here’s how Notcoin value might change in different growth scenarios.
-
-![Valuation Scenarios Infographic](assets/valuation_scenarios.png)
+Our platform’s valuation grows as we achieve milestones, increase users, and generate revenue. Here’s how Notcoin value might change in various growth stages:
 
 ### Scenario 1: Early Growth Phase
-- **Initial Valuation (V)**: $500,000
+- **Initial Valuation**: $500,000
 - **Price per Notcoin**:
   \[
   \text{Price per Notcoin} = \frac{500,000}{20,000,000} = 0.025 \text{ USD}
@@ -89,23 +103,23 @@ The valuation of Notfall Engineers grows based on milestones and user growth. He
   \]
 
 ### Scenario 2: Post-Milestone Growth
-- **Valuation (V)**: $2,500,000 following major milestones.
+- **Valuation**: $2,500,000 after key milestones (e.g., predictive maintenance release).
 - **Price per Notcoin**:
   \[
   \text{Price per Notcoin} = \frac{2,500,000}{20,000,000} = 0.125 \text{ USD}
   \]
-  If you own 10,000 Notcoins, your equity value is:
+  With 10,000 Notcoins:
   \[
   10,000 \times 0.125 = 1,250 \text{ USD}
   \]
 
-### Scenario 3: High Growth after Major Release
-- **Valuation (V)**: $10,000,000 after a significant platform release.
+### Scenario 3: High Growth Phase
+- **Valuation**: $10,000,000 after a major release.
 - **Price per Notcoin**:
   \[
   \text{Price per Notcoin} = \frac{10,000,000}{20,000,000} = 0.50 \text{ USD}
   \]
-  With 10,000 Notcoins, your equity value would be:
+  With 10,000 Notcoins:
   \[
   10,000 \times 0.50 = 5,000 \text{ USD}
   \]
@@ -114,107 +128,45 @@ The valuation of Notfall Engineers grows based on milestones and user growth. He
 
 ## 🧑‍⚖️ Validator Roles and Reward Structure
 
-Validators ensure high-quality contributions and validate tasks for quality and impact.
+Validators are critical to maintaining the quality of contributions and rewarding high-impact contributions.
 
-![Validator Roles Diagram](assets/validator_roles.png)
-
-### Validator Reward Equation
-Validators receive Notcoins based on task impact:
+### Validator Reward Calculation
 \[
 V_{\text{reward}} = 10 + (5 \times I)
 \]
-where:
-- **I** = Impact factor (1 to 3)
+where **I** = Impact factor (1 to 3)
 
-For example, a high-impact task (impact factor 3) would reward:
+Example: A high-impact task (impact factor 3) would yield:
 \[
 V_{\text{reward}} = 10 + (5 \times 3) = 25 \text{ Notcoins}
 \]
 
-### Validator Tasks
-Validators ensure quality through:
-- **Milestone Verification**: Confirming major features and growth milestones.
-- **Critical Feature Testing**: Validating algorithms, compliance tools, and AI models.
-- **User Experience Audits**: Ensuring a seamless, intuitive interface.
+Validators are crucial to Notfall’s growth and are rewarded with additional equity and recognition.
 
 ---
 
-## 📈 Development Phases and Timeline
+## 📊 GitHub Stats and 💻 Tech Stack
 
-### Phase 1: Foundation Development (Months 1-3)
-**Goal**: Establish onboarding, registration, task submission, AI task-matching, the engineer vetting process, and customizable dashboard components.
+### 📊 GitHub Stats
+![Coulbe GitHub Stats](https://github-readme-stats.vercel.app/api?username=Coulbe&show_icons=true&theme=radical)
 
-![Development Phases Timeline](assets/development_phases.png)
-
-**Key Tasks**:
-- **Onboarding and Registration**:
-  - Design user and engineer onboarding workflows.
-  - Implement role-based access.
-
-- **Engineer Vetting**:
-  - Build multi-step vetting with document verification.
-  - Integrate background checks.
-
-- **Task Submission and Management**:
-  - Create task submission forms.
-  - Develop user views for task tracking.
-
-- **AI Task-Matching**:
-  - Develop `TaskMatchingController`.
-  - Optimize matching algorithm for skills, location, availability, and ratings.
-
-- **Dashboard Customization**:
-  - Create modular UI widgets for tracking tasks and notifications.
-  - Implement an elegant, user-customizable dashboard design.
+### 💻 Tech Stack
+Notfall Engineers leverages a powerful tech stack, including:
+- **Frontend**: React, Tailwind CSS
+- **Backend**: Node.js, Express, MongoDB
+- **AI & Machine Learning**: TensorFlow, scikit-learn
+- **Blockchain**: Ethereum, Solidity (for future tokenization and secure data handling)
+- **Cloud**: Google Cloud Platform for scalability and data management
 
 ---
 
-## 💰 Contributor Levels, Rewards, and Milestones
+## 🎉 Join the Notfall Engineers Community
 
-Contributors achieve different levels based on task complexity, unlocking rewards and equity milestones.
+Ready to make a difference? Join **Notfall Engineers** today! Connect with us on [GitHub](https://github.com/Coulbe/notfallengineers), apply as a contributor, and become part of a project shaping the future of emergency building maintenance.
 
-![Contributor Levels Path](assets/contributor_levels.png)
-
-1. **Beginner**: Basic UI components, API connections.
-   - **Rewards**: 10 Notcoins per task.
-
-2. **Intermediate**: Core feature development like API integration, testing.
-   - **Rewards**: 25 Notcoins per task.
-   - **Milestone**: Earn 100 Notcoins to reach Advanced level.
-
-3. **Advanced**: High-impact tasks like predictive algorithms and secure architecture.
-   - **Rewards**: 50-100 Notcoins per task.
-   - **Milestone**: Earn 500 Notcoins for additional equity.
-
-4. **Equity Milestones**: Unlock more equity by achieving high-impact milestones.
-
----
-
-## 🎓 Contributor Learning and Development
-
-To support contributor growth, Notfall Engineers offers:
-- **Interactive Modules**: Learn advanced topics such as feature validation, AI model development, and compliance standards.
-- **Certification Tracks**: Complete tracks in fields like AI, Cloud, and Blockchain to unlock additional Notcoins and Validator eligibility.
-
-Contributors who complete these modules and certifications can also fast-track their promotion to higher impact levels.
-
----
-
-## 🎉 Community Engagement and Recognition
-
-![Community Engagement](assets/community_engagement.png)
-
-Join our **Slack Workspace**, attend **Quarterly Town Halls**, and be recognised through **Weekly Contributor Spotlights**. Community engagement is essential to the Notfall team, fostering collaboration and celebrating contributions.
-
----
-
-## 🌐 Join Notfall Engineers
-
-By contributing to Notfall Engineers, you’re helping to build a smarter, safer future for building maintenance. With every task, you’ll be earning equity in a company poised to make an industry-wide impact.
-
-For questions or guidance, connect with us on Slack or GitHub Discussions. Let’s work together to transform emergency maintenance!
-
+For questions or guidance, connect with us on GitHub Discussions or Slack. Let’s build a smarter, safer future together!
 ![Join Us Banner](assets/join_us_banner.png)
 
 ---
+
 

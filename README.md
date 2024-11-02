@@ -156,7 +156,7 @@ Our platform’s valuation grows as we achieve milestones, increase users, and g
   \]
   With 10,000 Notcoins:
   \[
-  10,000 times 0.125 = 1,250 \text{ USD}
+  10,000 times 0.125 = 1,250 { USD}
   \]
 
 ### Scenario 3: High Growth Phase

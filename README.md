@@ -17,10 +17,10 @@ At **Notfall Engineers**, I work on projects that push the boundaries of technol
 **Notfall Engineers** is more than just a platform—it’s a community-driven mission where each contribution is recognised and rewarded. Through our **Notcoins Reward Structure**, contributors earn Notcoins representing shares in the company, allowing you to grow alongside the platform you’re helping to build.
 
 For a detailed guide on contributions and rewards, see the **Notfall Engineers Contributor Guide**. Whether you’re interested in data-driven solutions, software engineering, blockchain, cloud computing or AI, there’s a place for you to make a meaningful impact at Notfall Engineers.
+
+---
 Let’s connect, collaborate, and explore the future of data-driven solutions together!
 ---
-
-
 
 ### Notfall Engineers Contributor Guide and Notcoins Reward Structure
 

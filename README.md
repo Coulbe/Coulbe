@@ -17,10 +17,10 @@ At **Notfall Engineers**, I work on projects that push the boundaries of technol
 **Notfall Engineers** is more than just a platform—it’s a community-driven mission where each contribution is recognised and rewarded. Through our **Notcoins Reward Structure**, contributors earn Notcoins representing shares in the company, allowing you to grow alongside the platform you’re helping to build.
 
 For a detailed guide on contributions and rewards, see the **Notfall Engineers Contributor Guide**. Whether you’re interested in data-driven solutions, software engineering, blockchain, cloud computing or AI, there’s a place for you to make a meaningful impact at Notfall Engineers.
-
+Let’s connect, collaborate, and explore the future of data-driven solutions together!
 ---
 
-Let’s connect, collaborate, and explore the future of data-driven solutions together!
+
 
 ### Notfall Engineers Contributor Guide and Notcoins Reward Structure
 
@@ -32,7 +32,7 @@ Contributions aren’t just recognized—they become part of Notfall Engineers i
 
 **Note**: Some links and resources are still being configured and will be available soon.
 
----
+
 
 ## 📌 About Notfall Engineers
 
@@ -42,7 +42,7 @@ Contributions aren’t just recognized—they become part of Notfall Engineers i
 - **Inefficient Task Matching**: AI-driven matching to connect tasks with the most skilled professionals.
 - **Data Security**: Blockchain-powered transparency and data management.
 
----
+
 
 ## 👥 Perspectives on Notfall Engineers
 
@@ -66,7 +66,7 @@ As a **Contributor**, your efforts directly impact Notfall Engineers' growth and
 - **Professional Development**: Work alongside industry experts, enhancing your skills and portfolio.
 - **Community Recognition**: Your contributions are rewarded and publicly recognized within our developer community.
 
----
+
 
 ## 🎯 Why Contribute?
 
@@ -76,7 +76,7 @@ Joining Notfall Engineers offers contributors:
 - **Equity Rewards**: Earn **Notcoins**, representing your ownership in Notfall Engineers.
 - **Professional Growth**: Collaborate with experts, expand your network, and gain recognition.
 
----
+
 
 ## 🌟 Open Roles and Requirements
 
@@ -100,7 +100,6 @@ We are currently looking for talented contributors in these areas:
 
 For detailed roles and specific requirements, visit our [Open Roles and Requirements](contributions/open-roles.md).
 
----
 
 ## 🛠️ How to Get Started
 
@@ -108,7 +107,7 @@ For detailed roles and specific requirements, visit our [Open Roles and Requirem
 2. **Onboarding**: Follow the [Onboarding Guide](contributions/onboarding-guide.md) to set up your environment.
 3. **Contribute**: Access tasks on the [Project Board](https://github.com/Coulbe/notfallengineers/projects) and track your Notcoins in the Contributor Dashboard.
 
----
+
 
 ## 💰 Notcoins Reward Structure and Equity Share
 
@@ -131,7 +130,7 @@ P = {40,000} divided by {2,000,000} times 100 = 2%
 
 You can track your Notcoin balance and ownership percentage on the **Contributor Dashboard**, updated monthly.
 
----
+
 
 ## 📈 Advanced Valuation Scenarios
 
@@ -170,7 +169,7 @@ Our platform’s valuation grows as we achieve milestones, increase users, and g
   10,000 times 0.50 = 5,000 { USD}
   \]
 
----
+
 
 ## 🧑‍⚖️ Validator Roles and Reward Structure
 
@@ -189,7 +188,7 @@ V_{{reward}} = 10 + (5 times 3) = 25 { Notcoins}
 
 Validators are crucial to Notfall’s growth and are rewarded with additional equity and recognition.
 
----
+
 
 ## 📊 GitHub Stats and 💻 Tech Stack
 
@@ -204,7 +203,7 @@ Notfall Engineers leverages a powerful tech stack, including:
 - **Blockchain**: Ethereum, Solidity (for future tokenization and secure data handling)
 - **Cloud**: Google Cloud Platform for scalability and data management
 
----
+
 
 ## 🎉 Join the Notfall Engineers Community
 
@@ -213,4 +212,4 @@ Ready to make a difference? Join **Notfall Engineers** today! Connect with us on
 For questions or guidance, connect with us on GitHub Discussions or Slack. Let’s build a smarter, safer future together!
 ![Join Us Banner](assets/join_us_banner.png)
 
----
+

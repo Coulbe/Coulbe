@@ -2,7 +2,7 @@
 
 ![Notfall Engineers Header](assets/notfall_header.png)
 
-Welcome to **Notfall Engineers**! We’re thrilled to have you here as part of our mission to revolutionize emergency building maintenance through **AI**, **Cloud Computing**, and **Blockchain** technologies. This guide provides everything you need to understand your role, our platform’s goals, and the rewards awaiting contributors who support us in building an industry-leading solution.
+Welcome to **Notfall Engineers**! Myself and the development team at Notfall are thrilled to have you here as part of our mission to revolutionise emergency building maintenance through **AI**, **Cloud Computing**, and **Blockchain** technologies. This guide provides everything you need to understand your role, our platform’s goals, and the rewards awaiting contributors who support us in building an industry-leading solution.
 
 Contributions aren’t just recognized—they become part of Notfall Engineers itself through **Notcoins**, which represent shares in the company. Here’s how it works, from the equity model to the valuation scenarios, validators, and more.
 
@@ -18,7 +18,29 @@ Contributions aren’t just recognized—they become part of Notfall Engineers i
 - **Inefficient Task Matching**: AI-driven matching to connect tasks with the most skilled professionals.
 - **Data Security**: Blockchain-powered transparency and data management.
 
-Our goals are ambitious, and we’re excited to have contributors join us on this journey! Interested in learning more? Check out my profile at [Coolbe](https://github.com/Coolbe) or visit our main repository at [Notfall Engineers](https://github.com/Coolbe/notfallengineers) for updates and contributions.
+---
+
+## 👥 Perspectives on Notfall Engineers
+
+### For Users
+As a **User** of the Notfall Engineers platform—whether a property manager, business owner, or tenant—you’ll benefit from:
+- **Fast, Reliable Service**: Request skilled engineers on-demand for urgent maintenance needs.
+- **Real-Time Updates**: Receive instant notifications on engineer arrival and task progress.
+- **Trusted Professionals**: All engineers are vetted, with profiles displaying certifications and customer ratings for peace of mind.
+- **Automated Compliance**: Access ready-to-use documentation (RAMS, SLAs, and permits) required for regulatory compliance.
+
+### For Engineers
+**Engineers** on the platform are vetted experts in their fields and gain access to:
+- **Steady Job Opportunities**: A continuous stream of tasks matched to their skills and availability.
+- **Enhanced Credibility**: Display certifications and customer ratings to attract more tasks.
+- **Automated Task Management**: Simplified processes for task acceptance, updates, and completion tracking.
+- **Flexible Earnings**: Choose payment in **Notcoins** (equity) or **fiat currency**, aligning with your financial goals.
+
+### For Contributors
+As a **Contributor**, your efforts directly impact Notfall Engineers' growth and success. You’ll enjoy:
+- **Equity Ownership**: Earn **Notcoins**, which represent shares in the company and grow with its value.
+- **Professional Development**: Work alongside industry experts, enhancing your skills and portfolio.
+- **Community Recognition**: Your contributions are rewarded and publicly recognized within our developer community.
 
 ---
 
@@ -72,15 +94,15 @@ Contributions are rewarded with **Notcoins**, representing shares in Notfall Eng
 - **Earning Notcoins**: Based on task complexity and impact.
 - **Ownership Percentage**:
   \[
-  P = \frac{N_{\text{earned}}}{N_{\text{total mined}}} \times 100
+  P = {N_{{earned}}} divided by {N_{{total mined}}} times 100
   \]
   Where:
-  - \( N_{\text{earned}} \) = Your total Notcoins earned.
-  - \( N_{\text{total mined}} \) = Total Notcoins mined by all contributors.
+  - \( N_{{earned}} \) = Your total Notcoins earned.
+  - \( N_{{total mined}} ) = Total Notcoins mined by all contributors.
 
 For example, if 2,000,000 Notcoins have been mined and you've earned 40,000 Notcoins:
 \[
-P = \frac{40,000}{2,000,000} \times 100 = 2\%
+P = {40,000} divided by {2,000,000} times 100 = 2%
 \]
 
 You can track your Notcoin balance and ownership percentage on the **Contributor Dashboard**, updated monthly.
@@ -95,33 +117,33 @@ Our platform’s valuation grows as we achieve milestones, increase users, and g
 - **Initial Valuation**: $500,000
 - **Price per Notcoin**:
   \[
-  \text{Price per Notcoin} = \frac{500,000}{20,000,000} = 0.025 \text{ USD}
+  {Price per Notcoin} = {500,000} divided by {20,000,000} = 0.025 { USD}
   \]
   With 10,000 Notcoins, your equity value would be:
   \[
-  10,000 \times 0.025 = 250 \text{ USD}
+  10,000 times 0.025 = 250 { USD}
   \]
 
 ### Scenario 2: Post-Milestone Growth
 - **Valuation**: $2,500,000 after key milestones (e.g., predictive maintenance release).
 - **Price per Notcoin**:
   \[
-  \text{Price per Notcoin} = \frac{2,500,000}{20,000,000} = 0.125 \text{ USD}
+  {Price per Notcoin} = {2,500,000} divided by {20,000,000} = 0.125 { USD}
   \]
   With 10,000 Notcoins:
   \[
-  10,000 \times 0.125 = 1,250 \text{ USD}
+  10,000 times 0.125 = 1,250 \text{ USD}
   \]
 
 ### Scenario 3: High Growth Phase
 - **Valuation**: $10,000,000 after a major release.
 - **Price per Notcoin**:
   \[
-  \text{Price per Notcoin} = \frac{10,000,000}{20,000,000} = 0.50 \text{ USD}
+  {Price per Notcoin} = {10,000,000} divided by {20,000,000} = 0.50 { USD}
   \]
   With 10,000 Notcoins:
   \[
-  10,000 \times 0.50 = 5,000 \text{ USD}
+  10,000 times 0.50 = 5,000 { USD}
   \]
 
 ---
@@ -132,13 +154,13 @@ Validators are critical to maintaining the quality of contributions and rewardin
 
 ### Validator Reward Calculation
 \[
-V_{\text{reward}} = 10 + (5 \times I)
+V_{{reward}} = 10 + (5 times I)
 \]
 where **I** = Impact factor (1 to 3)
 
 Example: A high-impact task (impact factor 3) would yield:
 \[
-V_{\text{reward}} = 10 + (5 \times 3) = 25 \text{ Notcoins}
+V_{{reward}} = 10 + (5 times 3) = 25 { Notcoins}
 \]
 
 Validators are crucial to Notfall’s growth and are rewarded with additional equity and recognition.
@@ -168,5 +190,3 @@ For questions or guidance, connect with us on GitHub Discussions or Slack. Let�
 ![Join Us Banner](assets/join_us_banner.png)
 
 ---
-
-

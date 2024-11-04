@@ -1,44 +1,69 @@
+![Welcome to Notfall Engineers On-Demand](assets/notfall_logo.png)
+
 ## 💫 About Me
 
-Hello, I’m **Coulbe**! I’m deeply enthusiastic about **data science**, **data engineering**, and uncovering new insights through **knowledge discovery**. My current focus is on contributing to **Notfall Engineers**, an innovative platform dedicated to transforming emergency building maintenance using advanced technologies like **AI**, **Cloud Computing**, and **Blockchain**.
+Hello, I’m **Coulbe**! I’m passionate about **data science**, **data engineering**, and exploring the depths of **knowledge discovery** to drive impactful solutions. Currently, my focus is on **Notfall Engineers**—a cutting-edge platform that’s transforming emergency building maintenance with the power of **AI**, **Cloud Computing**, and **Blockchain**.
 
-### 🌍 My Work at Notfall Engineers
+---
 
-At **Notfall Engineers**, I work on projects that push the boundaries of technology to make building maintenance faster, safer, and more efficient. Here’s how my expertise aligns with our mission:
+### 🌍 My Role at Notfall Engineers
 
-🔹 **Data-Driven Decision Making**: I help power **predictive maintenance** and **AI-based task-matching** systems. These intelligent solutions leverage data science to anticipate and resolve buildings maintenance issues before they become critical, ensuring reliability and prompt service.
+At **Notfall Engineers**, I work on projects at the intersection of data, technology, and innovation. Here’s how my skills contribute to our mission of enhancing emergency maintenance for buildings worldwide:
 
-🔹 **Scalable Data Engineering**: Through **cloud-based architectures**, I’m building scalable data workflows that provide secure and fast data access for real-time maintenance tasks tracking and management. This allows our platform to support growing user demands while maintaining high standards for performance and security.
+- **📈 Data-Driven Solutions**: I drive **predictive maintenance** and **AI task-matching** to pre-emptively address maintenance needs, ensuring fast and reliable service while minimising downtime.
+- **💻 Scalable Data Engineering**: I design **cloud-based workflows** that support real-time data access for monitoring and managing tasks, enabling scalability and efficiency in response times.
+- **🔒 Blockchain for Security**: By integrating **Blockchain** for secure, tamper-proof records, we bring transparency and accountability to maintenance data, benefitting property managers, engineers, and users alike.
 
-🔹 **Blockchain for Data Transparency**: With **Blockchain technology**, we’re ensuring that all maintenance records are securely managed and tamper-proof, enhancing transparency and trust for property managers, engineers, and users alike.
+---
 
 ### 🚀 Why Notfall Engineers?
 
-**Notfall Engineers** is more than just a platform—it’s a community-driven mission where each contribution is recognised and rewarded. Through our **Notcoins Reward Structure**, contributors earn Notcoins representing shares in the company, allowing you to grow alongside the platform you’re helping to build.
+**Notfall Engineers** is more than just a platform—it’s a mission. With each contribution, we’re building a collaborative community recognised through our **Notcoins Reward Structure**. Contributors earn **Notcoins**, representing shares in the company, and get the opportunity to grow alongside the platform.
 
-For a detailed guide on contributions and rewards, see the **Notfall Engineers Contributor Guide**. Whether you’re interested in data-driven solutions, software engineering, blockchain, cloud computing or AI, there’s a place for you to make a meaningful impact at Notfall Engineers.
+> Discover more in our **[Notfall Engineers Contributor Guide](https://github.com/Coulbe/notfallengineers/contributions/CONTRIBUTING.md)** to explore contribution opportunities, from AI and data science to blockchain and cloud computing. Join us in shaping the future of data-driven building maintenance solutions!
 
-### Let’s connect, collaborate, and explore the future of data-driven solutions together!
-> **Ready to get started?** ➡️ **[Join Notfall Engineers on GitHub](https://github.com/Coulbe/notfallengineers)**
-## 📊 GitHub Stats and 💻 Tech Stack
+---
 
 ### 📊 GitHub Stats
-![Coulbe GitHub Stats](https://github-readme-stats.vercel.app/api?username=Coulbe&show_icons=true&theme=radical)
+
+#### Overall GitHub Stats
+![Coulbe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Coulbe&show_icons=true&theme=radical)
+
+#### Language Proficiency
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Coulbe&layout=compact&theme=radical)
+
+#### Contribution Graph
+[![Coulbe's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Coulbe&theme=react-dark&hide_border=true&color=58a6ff&line=58a6ff&point=9be9ff)](https://github.com/Coulbe)
+
+#### Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Coulbe&theme=radical)](https://git.io/streak-stats)
+
+---
 
 ### 💻 Tech Stack
-Notfall Engineers leverages a powerful tech stack, including:
+
+At **Notfall Engineers**, we leverage a robust tech stack to drive innovation:
+
 - **Frontend**: React, Tailwind CSS
 - **Backend**: Node.js, Express, MongoDB
 - **AI & Machine Learning**: TensorFlow, scikit-learn
-- **Blockchain**: Ethereum, Solidity (for future tokenization and secure data handling)
-- **Cloud**: Google Cloud Platform for scalability and data management
+- **Blockchain**: Ethereum, Solidity (for secure data handling)
+- **Cloud**: Google Cloud Platform for cloud computing, scalability, AI and data management
 
+### 🛠️ Tools & Languages
+- Languages: Python, JavaScript, C++, C#, HTML5, CSS3
+- DevOps: Docker, Kubernetes, Jenkins, GitHub Actions
+- Data & ML: Pandas, NumPy, scikit-learn, TensorFlow
+
+---
 
 ## 🎉 Join the Notfall Engineers Community
 
-Ready to make a difference? Join **Notfall Engineers** today! Connect with us on [GitHub](https://github.com/Coulbe/notfallengineers), apply as a contributor, and become part of a project shaping the future of emergency building maintenance.
+**Ready to make an impact?** Join us at **Notfall Engineers**! Whether you’re interested in data-driven solutions, software engineering, blockchain, cloud computing, or AI, there’s a place for you to contribute and grow.
+
+> **Connect with us on [GitHub](https://github.com/Coulbe/notfallengineers)**, apply as a contributor, and help shape the future of emergency building maintenance.
 
 For questions or guidance, connect with us on GitHub Discussions or Slack. Let’s build a smarter, safer future together!
-![Join Us Banner](assets/join_us_banner.png)
 
+![Join Us Banner](assets/join_us_banner.png)
 

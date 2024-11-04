@@ -20,7 +20,7 @@ At **Notfall Engineers**, I work on projects at the intersection of data, techno
 
 **Notfall Engineers** is more than just a platform—it’s a mission. With each contribution, we’re building a collaborative community recognised through our **Notcoins Reward Structure**. Contributors earn **Notcoins**, representing shares in the company, and get the opportunity to grow alongside the platform.
 
-> Discover more in our **[Notfall Engineers Contributor Guide](https://github.com/Coulbe/notfallengineers/contributions/CONTRIBUTING.md)** to explore contribution opportunities, from AI and data science to blockchain and cloud computing. Join us in shaping the future of data-driven building maintenance solutions!
+> Discover more in our **[Notfall Engineers Contributor Guide](https://github.com/Coulbe/notfallengineers/blob/main/contributions/contribution-guidelines.md)** to explore contribution opportunities, from AI and data science to blockchain and cloud computing. Join us in shaping the future of data-driven building maintenance solutions!
 
 ---
 
@@ -48,7 +48,7 @@ At **Notfall Engineers**, we leverage a robust tech stack to drive innovation:
 - **Backend**: Node.js, Express, MongoDB
 - **AI & Machine Learning**: TensorFlow, scikit-learn
 - **Blockchain**: Ethereum, Solidity (for secure data handling)
-- **Cloud**: Google Cloud Platform for cloud computing, scalability, AI and data management
+- **Cloud**: Google Cloud Platform for scalability and data management
 
 ### 🛠️ Tools & Languages
 - Languages: Python, JavaScript, C++, C#, HTML5, CSS3

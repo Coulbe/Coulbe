@@ -1,5 +1,3 @@
-![Welcome to Notfall Engineers On-Demand](assets/notfall_logo.png)
-
 ## 💫 About Me
 
 Hello, I’m **Coulbe**! I’m passionate about **data science**, **data engineering**, and exploring the depths of **knowledge discovery** to drive impactful solutions. Currently, my focus is on **Notfall Engineers**—a cutting-edge platform that’s transforming emergency building maintenance with the power of **AI**, **Cloud Computing**, and **Blockchain**.

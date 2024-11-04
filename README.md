@@ -44,7 +44,7 @@ At **Notfall Engineers**, we leverage a robust tech stack to drive innovation:
 
 - **Frontend**: React, Tailwind CSS
 - **Backend**: Node.js, Express, MongoDB
-- **AI & Machine Learning**: TensorFlow, scikit-learn
+- **AI & Machine Learning**: Natural Language Processing,TensorFlow, scikit-learn
 - **Blockchain**: Ethereum, Solidity (for secure data handling)
 - **Cloud**: Google Cloud Platform for scalability and data management
 

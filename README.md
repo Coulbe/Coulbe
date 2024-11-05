@@ -3,6 +3,8 @@
 Hello, I’m **Coulbe**! I’m passionate about **data science**, **data engineering**, and exploring the depths of **knowledge discovery** to drive impactful solutions. Currently, my focus is on **Notfall Engineers**—a cutting-edge platform transforming emergency building maintenance with **AI**, **Cloud Computing**, and **Blockchain**.
 
 ---
+### 🚀 Official Announcement: Now Accepting New Applications!
+---
 
 ### 🌍 My Role at Notfall Engineers
 

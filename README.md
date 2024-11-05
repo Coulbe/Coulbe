@@ -10,7 +10,7 @@ Hello, I’m **Coulbe**! I’m passionate about **data science**, **data enginee
 
 At **Notfall Engineers**, I work on projects at the intersection of data, technology, and innovation. Here’s how my skills contribute to our mission of enhancing emergency maintenance for buildings worldwide:
 
-- **📈 Data-Driven Solutions**: I lead **predictive maintenance** and **AI task-matching** to proactively address maintenance needs, ensuring fast, reliable service while minimizing downtime.
+- **📈 Data-Driven Solutions**: I lead **predictive maintenance** and **AI task-matching** to proactively address maintenance needs, ensuring fast, reliable service while minimising downtime.
 - **💻 Scalable Data Engineering**: I design **cloud-based workflows** supporting real-time data access for efficient task monitoring and management, enabling scalability and responsiveness.
 - **🔒 Blockchain for Security**: Integrating **Blockchain** for secure, tamper-proof records brings transparency and accountability to maintenance data, benefiting property managers, engineers, and users alike.
 

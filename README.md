@@ -18,7 +18,7 @@ At **Notfall Engineers**, I work on projects at the intersection of data, techno
 
 ### 🚀 Why Notfall Engineers?
 
-**Notfall Engineers** is more than a platform—it’s a mission. Each contribution helps build a collaborative community, recognized through our **Notcoins Reward Structure**. Contributors earn **Notcoins**, representing shares in the company, with opportunities to grow alongside the platform.
+**Notfall Engineers** is more than a platform—it’s a mission. Each contribution helps build a collaborative community, recognised through our **Notcoins Reward Structure**. Contributors earn **Notcoins**, representing shares in the company, with opportunities to grow alongside the platform.
 
 > Discover more in our **[Notfall Engineers Contributor Guide](https://github.com/Coulbe/notfall-contributors/blob/main/contributions/contribution-guidelines.md)**. Explore opportunities from AI and data science to blockchain and cloud computing, and join us in shaping the future of data-driven building maintenance solutions!
 

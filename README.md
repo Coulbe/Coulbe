@@ -7,9 +7,9 @@ The architecture of **Notfall Engineers On-Demand** delivers a **scalable**, **s
 
 
 
-                                                                          ## 🚀 ** Now Accepting New Contributor Applications!**
-
-
+---
+ ## 🚀 ** Now Accepting New Contributor Applications!**
+---
 
 
 ## **🌍 My Role at Notfall Engineers**

@@ -1,125 +1,147 @@
-## 💫 About Me
+## **💫 About Me**
 
-Hello, I’m **Coulbe**! I am passionate about **data science**, **data engineering**, and pushing the boundaries of **knowledge discovery** to create impactful solutions. My current focus is **Notfall Engineers**—a next-generation platform revolutionising emergency building maintenance through **AI**, **Cloud Computing**, and **Blockchain**. 
+Hello, I’m **Coulbe**! I’m passionate about **data science**, **data engineering**, and pushing the boundaries of **knowledge discovery** to create impactful solutions. My focus is **Notfall Engineers**, a next-generation platform designed to revolutionise emergency building maintenance.
 
-The architecture of **Notfall Engineers On-Demand** is designed to deliver a **scalable**, **secure**, and **modular** platform. Below, I highlight its key features and how they contribute to our mission.
-
----
-
-### 🚀 **Official Announcement**: Now Accepting New Contributor Applications!
+The architecture of **Notfall Engineers On-Demand** delivers a **scalable**, **secure**, and **modular** platform that supports our mission to enhance service delivery worldwide.
 
 ---
 
-## 🌍 **My Role at Notfall Engineers**
+## 🚀 **Official Announcement**: Now Accepting New Contributor Applications!
 
-At **Notfall Engineers**, I work on projects that integrate **data**, **technology**, and **innovation**, helping redefine emergency building maintenance globally. Here’s how my expertise contributes:
-
-- **📈 Predictive Maintenance & AI**: Utilising **data-driven insights** to predict maintenance needs, optimise task-matching with **AI models**, and ensure rapid, reliable service.
-- **💻 Scalable Cloud Engineering**: Designing **cloud-based workflows** for real-time data processing and monitoring, which enhances system scalability and responsiveness.
-- **🔒 Blockchain for Transparency**: Implementing **Blockchain** to maintain tamper-proof records, improving trust and accountability among property managers, engineers, and users.
+Join our growing team of contributors to develop features, address challenges, and innovate in AI-driven maintenance solutions.
 
 ---
 
-## 🏗️ **Key Architectural Features**
+## **🌍 My Role at Notfall Engineers**
 
-The **Notfall Engineers On-Demand** platform is built on a robust and modular architecture to ensure efficiency and security:
+At **Notfall Engineers**, I drive projects that integrate **data**, **technology**, and **innovation**, helping redefine emergency maintenance globally. Here’s how my expertise contributes:
+
+- **📈 Predictive Maintenance**: Using **AI** to anticipate and optimise maintenance needs for fast and reliable service delivery.
+- **💻 Scalable Cloud Engineering**: Designing **cloud-based workflows** for real-time task monitoring, enabling scalability and responsiveness.
+- **🔒 Blockchain Integration**: Implementing **smart contracts** for secure Notcoin rewards and transparency.
+
+---
+
+## **🏗️ Architectural Features**
+
+The **Notfall Engineers On-Demand** platform is built on a robust architecture to ensure efficiency and security:
 
 ### Backend
-- **Controllers**: Modular business logic for tasks, contributors, engineers, rewards, and analytics, enabling scalable and secure API management.
-- **Middleware**: Authentication, role-based access control, and validation layers to maintain security and data integrity.
-- **Services**: Advanced services for **AI-driven task-matching**, **Notcoin rewards distribution**, and **real-time notifications**.
-- **Blockchain Integration**: Smart contracts for **Notcoin** and vesting provide decentralised transparency and trust.
+- **Controllers**: Modular logic for tasks, contributors, engineers, and rewards.
+- **Middleware**: Authentication and validation layers for security.
+- **Services**: Advanced services for **AI-driven task-matching** and **real-time notifications**.
+- **Blockchain**: Smart contracts for **Notcoin** and contributor vesting.
 
 ### Frontend
-- **Component-Based Design**: Reusable React components for dashboards, modals, and notifications create a dynamic and seamless user experience.
-- **Redux State Management**: Centralised state for efficient data synchronisation across user interfaces.
-- **Real-Time Updates**: Integration of **WebSockets** enables live task notifications and engineer dispatch.
-
-### Smart Contracts
-- **ERC-20 Notcoin**: Used to reward contributors and engineers based on task completion and contributions.
-- **Vesting Contracts**: Provide secure and predictable token distribution for long-term engagement.
+- **Component-Based Design**: Reusable React components for a seamless user experience.
+- **Redux State Management**: Efficient state synchronisation across user interfaces.
+- **Real-Time Updates**: Live task notifications and engineer dispatch using **WebSockets**.
 
 ---
 
-### 🌟 **Why Notfall Engineers?**
+## **How to Contribute**
 
-**Notfall Engineers** is more than a platform; it’s a **community-driven mission**. By contributing, you can:
+### **1. Workflow for Submitting Code**
 
-- **Earn Notcoins**: Be part of our **Notcoins Reward Structure**, where contributions are recognised with Notcoins—our native token representing equity in the platform.
-- **Collaborate & Innovate**: Work alongside engineers, developers, and contributors to shape the future of building maintenance solutions.
-- **Grow with Us**: As we expand, so will your opportunities to innovate and make an impact.
+Contributors submit code using a structured **Pull Request (PR)** workflow in GitHub:
 
-> For more details, explore the **[Notfall Engineers Contributor Guide](https://github.com/Coulbe/notfall-contributors/blob/main/contributions/contribution-guidelines.md)**. Discover opportunities in **AI**, **data science**, **blockchain**, and **cloud computing**.
+#### **Step 1: Fork and Clone**
+- Fork the repository into your GitHub account.
+- Clone the forked repository to your local machine:
+  ```bash
+  git clone https://github.com/<your-username>/notfall-contributors.git
+  cd notfall-contributors
+  ```
+
+#### **Step 2: Create a Feature Branch**
+Work in an isolated branch for each task:
+```bash
+git checkout -b feature/add-login-api
+```
+
+#### **Step 3: Implement Changes**
+Make changes as per the task requirements and guidelines:
+- Write clean, well-documented code.
+- Include unit tests for new features.
+
+#### **Step 4: Commit and Push**
+- Commit your changes with a descriptive message:
+  ```bash
+  git add .
+  git commit -m "Add login API to authController"
+  ```
+- Push to your fork:
+  ```bash
+  git push origin feature/add-login-api
+  ```
+
+#### **Step 5: Submit a Pull Request**
+- Navigate to your forked repository.
+- Click **New Pull Request** and select the base repository (`Coulbe/notfall-contributors`).
+- Fill in the PR template and link to related issues.
 
 ---
 
-## 📊 GitHub Stats
+### **2. Reviewer Workflow**
+
+- Reviewers evaluate PRs for:
+  - Code quality and adherence to guidelines.
+  - Functional correctness.
+  - Passing tests in CI/CD pipelines.
+- Request changes or approve the PR for merging.
+
+---
+
+### **3. Merging and Updating**
+
+- Once approved, a maintainer merges the PR.
+- Contributors should delete the feature branch locally and remotely:
+  ```bash
+  git branch -d feature/add-login-api
+  git push origin --delete feature/add-login-api
+  ```
+
+---
+
+### **4. Keeping the Fork Updated**
+
+Sync your fork with the main repository to avoid conflicts:
+```bash
+git fetch upstream
+git checkout main
+git merge upstream/main
+git push origin main
+```
+
+---
+
+## **📊 GitHub Stats**
 
 #### **Overall GitHub Stats**
 ![Coulbe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Coulbe&show_icons=true&theme=radical)
 
-#### **Top Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Coulbe&layout=compact&theme=radical)
-
 #### **Contribution Graph**
-[![Coulbe's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Coulbe&theme=react-dark&hide_border=true&color=58a6ff&line=58a6ff&point=9be9ff)](https://github.com/Coulbe)
-
-#### **Streak Stats**
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Coulbe&theme=radical)](https://git.io/streak-stats)
+[![Coulbe's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Coulbe&theme=react-dark)](https://github.com/Coulbe)
 
 ---
 
-## 💻 **Tech Stack at Notfall Engineers**
+## **💻 Technology Stack**
 
-Our technology stack is designed to maximise efficiency and innovation:
-
-### Backend
-- **Frameworks**: Node.js, Express.js
-- **Database**: MongoDB
+- **Backend**: Node.js, Express.js, MongoDB
+- **Frontend**: React, Redux, Tailwind CSS
 - **Blockchain**: Ethereum, Solidity
-- **Middleware**: JSON Web Tokens (JWT) for authentication, validation schemas for robust APIs
-
-### Frontend
-- **Frameworks**: React, Redux
-- **Styling**: Tailwind CSS, Material-UI
-- **Libraries**: Axios for API communication, D3.js for data visualisation
-
-### DevOps & Cloud
-- **CI/CD**: GitHub Actions
-- **Cloud Infrastructure**: Google Cloud Platform (GCP), Kubernetes, Docker
+- **DevOps**: GitHub Actions, Kubernetes, Docker
 
 ---
 
-### 🛠️ **Tools & Languages**
-- **Programming Languages**: Python, JavaScript, Solidity, HTML5, CSS3
-- **Data Science Tools**: Pandas, NumPy, TensorFlow
-- **DevOps**: Docker, Kubernetes, Jenkins, GitHub Actions
-- **Version Control**: Git, GitHub
+## **🎉 Join the Community**
+
+Want to make an impact? Join us at **Notfall Engineers**! Here’s how:
+
+- **Visit**: [Notfall Engineers GitHub](https://github.com/Coulbe/notfall-contributors)
+- **Apply**: Submit a [Request Contributor Access](https://github.com/Coulbe/notfall-contributors/issues/new/choose).
+- **Collaborate**: Engage in discussions and take on exciting challenges.
+
+> Questions? Reach out via GitHub Discussions or Slack. Let’s innovate together!
 
 ---
-
-## 🎉 **Join the Notfall Engineers Community**
-
-**Want to make an impact?** Join us at **Notfall Engineers**! Whether you’re interested in **data-driven solutions**, **software engineering**, **AI**, **blockchain**, or **cloud computing**, there’s a place for you.
-
-### **How to Get Started**:
-1. **Visit**: [Notfall Engineers GitHub](https://github.com/Coulbe/notfall-contributors)
-2. **Apply**: Join as a contributor to take on exciting challenges.
-3. **Collaborate**: Engage in discussions, contribute code, and earn **Notcoins**.
-
-> **Questions?** Connect with us on [GitHub Discussions](https://github.com/Coulbe/notfall-contributors/discussions) or Slack. Let’s build the future of emergency maintenance together!
-
----
-
-![Join Us Banner](assets/join_us_banner.png)
-
----
-
-### **Incorporation of Architecture Key Points**
-
-This updated markdown incorporates:
-1. **Backend modularity** for scalability and robustness.
-2. **Frontend interactivity** for seamless user engagement.
-3. **Blockchain integration** for trust and transparency.
-4. **Real-time systems** for live updates and dynamic task workflows.
-

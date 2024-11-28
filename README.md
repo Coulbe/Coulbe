@@ -6,8 +6,7 @@ The architecture of **Notfall Engineers On-Demand** delivers a **scalable**, **s
 
 
 
-## 🚀 **Official Announcement**: Now Accepting New Contributor Applications!
-
+## 🚀 ** Now Accepting New Contributor Applications!**
 Join our growing team of contributors to develop features, address challenges, and innovate in AI-driven maintenance solutions.
 
 
@@ -41,77 +40,62 @@ The **Notfall Engineers On-Demand** platform is built on a robust architecture t
 
 ## **How to Contribute**
 
+We welcome contributors from all backgrounds! To get started, you can submit a **Contributor Access Request** by filling out the form provided in the repository under `.github/ISSUE_TEMPLATE/request-contributor-access.yml`. This allows us to understand your skills, areas of interest, and availability. Once approved, you’ll gain access to tasks and opportunities to contribute to the project.
+
+
 ### **1. Workflow for Submitting Code**
 
-Contributors submit code using a structured **Pull Request (PR)** workflow in GitHub:
+Once you have access as a contributor, follow these steps to submit your code or new features:
 
-#### **Step 1: Fork and Clone**
-- Fork the repository into your GitHub account.
-- Clone the forked repository to your local machine:
-  ```bash
-  git clone https://github.com/<your-username>/notfall-contributors.git
-  cd notfall-contributors
-  ```
+1. **Fork the Repository**  
+   Fork the `Coulbe/notfall-contributors` repository to your GitHub account by clicking the **Fork** button at the top-right corner of the repository page.
 
-#### **Step 2: Create a Feature Branch**
-Work in an isolated branch for each task:
-```bash
-git checkout -b feature/add-login-api
-```
+2. **Clone the Forked Repository**  
+   Clone the forked repository to your local machine:
+   ```bash
+   git clone https://github.com/<your-username>/notfall-contributors.git
+   cd notfall-contributors
+   ```
 
-#### **Step 3: Implement Changes**
-Make changes as per the task requirements and guidelines:
-- Write clean, well-documented code.
-- Include unit tests for new features.
+3. **Set Up Upstream**  
+   Add the main repository as an upstream remote to keep your local fork updated:
+   ```bash
+   git remote add upstream https://github.com/Coulbe/notfall-contributors.git
+   ```
 
-#### **Step 4: Commit and Push**
-- Commit your changes with a descriptive message:
-  ```bash
-  git add .
-  git commit -m "Add login API to authController"
-  ```
-- Push to your fork:
-  ```bash
-  git push origin feature/add-login-api
-  ```
+4. **Create a Feature Branch**  
+   Create a new branch for the task or feature you're working on:
+   ```bash
+   git checkout -b feature/<task-name>
+   ```
 
-#### **Step 5: Submit a Pull Request**
-- Navigate to your forked repository.
-- Click **New Pull Request** and select the base repository (`Coulbe/notfall-contributors`).
-- Fill in the PR template and link to related issues.
+5. **Implement Changes**  
+   Write clean, modular code, add appropriate comments, and ensure the code adheres to the project's coding standards.
 
+6. **Commit and Push Changes**  
+   Commit your changes with a descriptive message and push to your forked repository:
+   ```bash
+   git add .
+   git commit -m "Add feature: <description>"
+   git push origin feature/<task-name>
+   ```
 
+7. **Open a Pull Request (PR)**  
+   - Go to your forked repository on GitHub.
+   - Click **Compare & Pull Request**.
+   - Select `Coulbe/notfall-contributors` as the base repository and your branch as the compare branch.
+   - Fill out the PR template and submit.
 
-### **2. Reviewer Workflow**
+8. **Address Feedback**  
+   Maintain open communication with reviewers. If changes are requested:
+   ```bash
+   git add .
+   git commit -m "Fix: Address PR feedback"
+   git push origin feature/<task-name>
+   ```
 
-- Reviewers evaluate PRs for:
-  - Code quality and adherence to guidelines.
-  - Functional correctness.
-  - Passing tests in CI/CD pipelines.
-- Request changes or approve the PR for merging.
-
-
-
-### **3. Merging and Updating**
-
-- Once approved, a maintainer merges the PR.
-- Contributors should delete the feature branch locally and remotely:
-  ```bash
-  git branch -d feature/add-login-api
-  git push origin --delete feature/add-login-api
-  ```
-
-
-
-### **4. Keeping the Fork Updated**
-
-Sync your fork with the main repository to avoid conflicts:
-```bash
-git fetch upstream
-git checkout main
-git merge upstream/main
-git push origin main
-```
+9. **Merge Approved PR**  
+   Once approved by the maintainers, your code will be merged into the main repository.
 
 
 

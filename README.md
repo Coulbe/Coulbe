@@ -4,13 +4,13 @@ Hello, I’m **Coulbe**! I’m passionate about **data science**, **data enginee
 
 The architecture of **Notfall Engineers On-Demand** delivers a **scalable**, **secure**, and **modular** platform that supports our mission to enhance service delivery worldwide.
 
----
+
 
 ## 🚀 **Official Announcement**: Now Accepting New Contributor Applications!
 
 Join our growing team of contributors to develop features, address challenges, and innovate in AI-driven maintenance solutions.
 
----
+
 
 ## **🌍 My Role at Notfall Engineers**
 
@@ -20,7 +20,7 @@ At **Notfall Engineers**, I drive projects that integrate **data**, **technology
 - **💻 Scalable Cloud Engineering**: Designing **cloud-based workflows** for real-time task monitoring, enabling scalability and responsiveness.
 - **🔒 Blockchain Integration**: Implementing **smart contracts** for secure Notcoin rewards and transparency.
 
----
+
 
 ## **🏗️ Architectural Features**
 
@@ -37,7 +37,7 @@ The **Notfall Engineers On-Demand** platform is built on a robust architecture t
 - **Redux State Management**: Efficient state synchronisation across user interfaces.
 - **Real-Time Updates**: Live task notifications and engineer dispatch using **WebSockets**.
 
----
+
 
 ## **How to Contribute**
 
@@ -80,7 +80,7 @@ Make changes as per the task requirements and guidelines:
 - Click **New Pull Request** and select the base repository (`Coulbe/notfall-contributors`).
 - Fill in the PR template and link to related issues.
 
----
+
 
 ### **2. Reviewer Workflow**
 
@@ -90,7 +90,7 @@ Make changes as per the task requirements and guidelines:
   - Passing tests in CI/CD pipelines.
 - Request changes or approve the PR for merging.
 
----
+
 
 ### **3. Merging and Updating**
 
@@ -101,7 +101,7 @@ Make changes as per the task requirements and guidelines:
   git push origin --delete feature/add-login-api
   ```
 
----
+
 
 ### **4. Keeping the Fork Updated**
 
@@ -113,7 +113,7 @@ git merge upstream/main
 git push origin main
 ```
 
----
+
 
 ## **📊 GitHub Stats**
 
@@ -123,7 +123,7 @@ git push origin main
 #### **Contribution Graph**
 [![Coulbe's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Coulbe&theme=react-dark)](https://github.com/Coulbe)
 
----
+
 
 ## **💻 Technology Stack**
 
@@ -132,7 +132,7 @@ git push origin main
 - **Blockchain**: Ethereum, Solidity
 - **DevOps**: GitHub Actions, Kubernetes, Docker
 
----
+
 
 ## **🎉 Join the Community**
 
@@ -144,4 +144,4 @@ Want to make an impact? Join us at **Notfall Engineers**! Here’s how:
 
 > Questions? Reach out via GitHub Discussions or Slack. Let’s innovate together!
 
----
+

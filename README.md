@@ -11,7 +11,8 @@ Want to make an impact? Join us at **Notfall Engineers**! Here’s how:
 - **Apply**: Submit a [Request Contributor Access](https://github.com/Coulbe/notfall-contributors/issues/new/choose).  
 - **Collaborate**: Engage in discussions and take on exciting challenges.
 
-> Questions? Reach out via GitHub Discussions or Slack. Let’s innovate together!
+- **Questions?** Reach out via [GitHub Discussions](https://github.com/Coulbe/notfall-contributors/discussions). Let’s innovate together!
+
 
 
 

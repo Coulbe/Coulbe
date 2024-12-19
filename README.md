@@ -1,10 +1,3 @@
-
-# **Notfall Engineers On-Demand**
-
-*Transforming emergency maintenance for critical building systems with cutting-edge AI, secure blockchain integration, and scalable cloud-based solutions.*
-
----
-
 ## **💫 About Me**
 
 Hello, I’m **Coulbe**! I’m passionate about **data science**, **data engineering**, and exploring the boundaries of **knowledge discovery** to create impactful solutions. My focus is **Notfall Engineers**, a next-generation platform designed to revolutionise emergency building maintenance for critical systems, including electricity, plumbing, gas, heating, HVAC, and more. 

@@ -4,14 +4,14 @@ Hello, I’m **Coulbe**! I’m passionate about **data science**, **data enginee
 
 Through **AI-driven predictive maintenance**, **blockchain-powered rewards**, and **scalable cloud platforms**, I aim to build solutions that redefine efficiency and reliability in this industry. Let’s innovate together and drive meaningful change in the world of building service engineering.
 
----
+
 
 ## **📚 Repository Link**
 
 Explore the project and its details:  
 [Notfall Data Flow Diagram Repository](https://github.com/Coulbe/notfall-data-flow-diagram/blob/main/README.md)
 
----
+
 
 ## **🚀 Featured Work**
 
@@ -27,7 +27,7 @@ This repository contains the **interactive and expanded data flow diagram** show
 Explore the repository:  
 [Click here for more details](https://github.com/Coulbe/notfall-data-flow-diagram/blob/main/README.md)
 
----
+
 
 ## **💻 Technology Stack**
 
@@ -51,7 +51,7 @@ Explore the repository:
 
 ![Coulbe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Coulbe&show_icons=true&theme=radical)
 
----
+
 
 ## **🎯 Goals and Vision**
 
@@ -60,7 +60,7 @@ At **Notfall Engineers**, we aim to:
 - **Empower contributors and engineers** with equitable rewards through blockchain technology.
 - **Create a sustainable ecosystem** driven by innovation and real-time efficiency.
 
----
+
 
 ## **⚡ Challenges**
 

@@ -2,7 +2,7 @@
 
 Hello, I’m **Coulbe**! I’m passionate about **data science**, **data engineering**, and exploring the boundaries of **knowledge discovery** to create impactful solutions. My focus is **Notfall Engineers**, a next-generation platform designed to revolutionise emergency building maintenance for critical systems, including electricity, plumbing, gas, heating, HVAC, and more. 
 
-Through **AI-driven predictive maintenance**, **blockchain-powered rewards**, and **scalable cloud platforms**, I aim to build solutions that redefine efficiency and reliability in this industry. Let’s innovate together and drive meaningful change in the world of building service engineering.
+Through **AI-driven predictive maintenance**, **blockchain-powered rewards**, and **scalable cloud platforms**, I aim to build solutions that redefine efficiency and reliability in this industry. Let’s innovate together and drive meaningful change in the world of architecture for future-proof building services engineering, maintenance and facilities management services.
 
 
 

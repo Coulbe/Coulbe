@@ -4,7 +4,7 @@ Hello, I’m **Coulbe**! I’m passionate about **data science**, **data enginee
 
 Through **AI-driven predictive maintenance**, **blockchain-powered rewards**, and **scalable cloud platforms**, I aim to build solutions that redefine efficiency and reliability in this industry. Let’s innovate together and drive meaningful change in the world of building service engineering.
 
-
+---
 
 ## **📚 Repository Link**
 
@@ -22,7 +22,9 @@ This repository contains the **interactive and expanded data flow diagram** show
 - Role-specific onboarding for Admins, Engineers, and Customers.
 - AI-driven task matching and dispatch.
 - Secure payment processing with blockchain integration.
-- Scalable architecture for future-proof building maintenance.
+- Scalable architecture for future-proof building services engineering, maintenance and facilities management.
+- **RAMS and SLAs Integration**: Incorporating risk assessment, compliance checks, and SLAs for transparent service delivery.
+- **Live Updates**: Real-time task updates, notifications, and data flow visualisation with WebSocket support.
 
 Explore the repository:  
 [Click here for more details](https://github.com/Coulbe/notfall-data-flow-diagram/blob/main/README.md)
@@ -43,9 +45,10 @@ Explore the repository:
 |                  | Tailwind CSS                         | Consistent and modern UI design           |
 | **Blockchain**   | Ethereum, Solidity                   | Secure smart contracts for Notcoin rewards |
 | **Real-Time**    | WebSockets                           | Live updates for tasks and notifications  |
+| **Compliance**   | RAMS, SLAs                           | Ensure safety and service transparency    |
 | **DevOps**       | GitHub Actions, Kubernetes, Docker   | CI/CD pipelines and container orchestration |
 
----
+
 
 ## **📊 GitHub Stats**
 
@@ -58,6 +61,7 @@ Explore the repository:
 At **Notfall Engineers**, we aim to:
 - **Revolutionise emergency maintenance services globally**.
 - **Empower contributors and engineers** with equitable rewards through blockchain technology.
+- **Ensure compliance and transparency** through RAMS and SLA-driven processes.
 - **Create a sustainable ecosystem** driven by innovation and real-time efficiency.
 
 
@@ -84,8 +88,18 @@ At **Notfall Engineers**, we aim to:
 - **Education and Training**: Helping users understand blockchain wallets and predictive maintenance tools.
 - **Retention**: Keeping engineers and customers engaged long-term.
 
----
 
-### **Ready to Join Us?**
+
+## **🔧 Recent Innovations**
+
+- **Live Updates with WebSocket Integration**:
+  - Real-time updates for task assignments, notifications, and engineer responses.
+  - Visualised through dynamic data flow diagrams with Plotly and WebSockets.
+- **RAMS and SLA Features**:
+  - Full integration of risk assessments, compliance checks, and service-level agreements for transparency and safety.
+
+
+
+## **Ready to Join Us?**
 [Apply Here](https://github.com/Coulbe/notfall-data-flow-diagram)
-```
+

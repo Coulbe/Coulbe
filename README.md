@@ -101,5 +101,5 @@ At **Notfall Engineers**, we aim to:
 
 
 ## **Ready to Join Us?**
-[Apply Here](https://github.com/Coulbe/notfall-data-flow-diagram)
+[Apply Here](mailto:info@notfallengineers.com?subject=Join%20Notfall%20Engineers&body=I%20am%20interested%20in%20joining%20Notfall%20Engineers.%20Please%20provide%20more%20details.)
 

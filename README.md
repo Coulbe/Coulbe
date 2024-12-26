@@ -4,7 +4,7 @@ Hello, I’m **Coulbe**! I’m passionate about **data science**, **data enginee
 
 Through **AI-driven predictive maintenance**, **blockchain-powered rewards**, and **scalable cloud platforms**, I aim to build solutions that redefine efficiency and reliability in this industry. Let’s innovate together and drive meaningful change in the world of architecture for future-proof building services engineering, maintenance and facilities management services.
 
-
+Contact: info@notfallengineers.com
 
 ## **📚 Repository Link**
 

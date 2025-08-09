@@ -1,11 +1,11 @@
 ## **💫 About Me**
 
-Hello, I’m **Coulbe**! I’m passionate about **data science**, **data engineering**, and exploring the boundaries of **knowledge discovery** to create impactful solutions. My focus is **Notfall Engineers**, a next-generation platform designed to revolutionise emergency building maintenance for critical systems, including electricity, plumbing, gas, heating, HVAC, and more. 
+Hello, I’m passionate about **data science**, **data engineering**, and exploring the boundaries of **knowledge discovery** to create impactful solutions. My focus is **Notfall Engineers**, a next-generation platform designed to revolutionise emergency building maintenance for critical systems, including electricity, plumbing, gas, heating, HVAC, and more. 
 
+## **📊 GitHub Technology Stats**
 
-
-| **Layer**       | **Technology**                         | **Purpose**                               |
-|------------------|---------------------------------------|-------------------------------------------|
+| **Layer**        | **Technology**                       | **Purpose**                               |
+|------------------|--------------------------------------|-------------------------------------------|
 | **Backend**      | Node.js, Express.js                  | Scalable and fast server-side API         |
 |                  | MongoDB                              | Flexible and scalable NoSQL database      |
 | **Frontend**     | React, Redux                         | User interface and state management       |

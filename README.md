@@ -1,4 +1,4 @@
-## **💫 About Me**
+## **About Me**
 
 Hello, I’m passionate about **data science**, **data engineering**, and exploring the boundaries of **knowledge discovery** to create impactful solutions. My focus is **Notfall Engineers**, a next-generation platform designed to revolutionise emergency building maintenance for critical systems, including electricity, plumbing, gas, heating, HVAC, and more. 
 

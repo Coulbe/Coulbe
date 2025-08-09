@@ -6,17 +6,6 @@ Through **AI-driven predictive maintenance**, **blockchain-powered rewards**, an
 
 Contact: info@notfallengineers.com
 
-## **📚 Repository Link**
-
-Explore the project and its details:  
-[Notfall Data Flow Diagram Repository](https://github.com/Coulbe/notfall-data-flow-diagram/blob/main/README.md)
-
-
-
-## **🚀 Featured Work**
-
-### **Notfall Engineers Data Flow Diagram**
-![Data Flow Diagram](https://github.com/Coulbe/notfall-data-flow-diagram/blob/main/expanded_data_flow_with_onboarding.png?raw=true)
 
 This repository contains the **interactive and expanded data flow diagram** showcasing Notfall Engineers' cutting-edge features such as:
 - Role-specific onboarding for Admins, Engineers, and Customers.
@@ -26,11 +15,7 @@ This repository contains the **interactive and expanded data flow diagram** show
 - **RAMS and SLAs Integration**: Incorporating risk assessment, compliance checks, and SLAs for transparent service delivery.
 - **Live Updates**: Real-time task updates, notifications, and data flow visualisation with WebSocket support.
 
-Explore the repository:  
-[Click here for more details](https://github.com/Coulbe/notfall-data-flow-diagram/blob/main/README.md)
-
-
-
+  
 ## **💻 Technology Stack**
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
@@ -63,43 +48,3 @@ At **Notfall Engineers**, we aim to:
 - **Empower contributors and engineers** with equitable rewards through blockchain technology.
 - **Ensure compliance and transparency** through RAMS and SLA-driven processes.
 - **Create a sustainable ecosystem** driven by innovation and real-time efficiency.
-
-
-
-## **⚡ Challenges**
-
-### **1. Market Challenges**
-- **Competitor Landscape**: Established platforms dominate the on-demand service space, requiring a strong unique value proposition (UVP) to stand out.
-- **Market Penetration**: Educating property managers, engineers, and customers about the benefits of AI and blockchain solutions.
-
-### **2. Operational Challenges**
-- **Engineer Availability**: Ensuring enough skilled engineers across all regions, especially in underserved areas.
-- **Task Matching Accuracy**: Real-time matching algorithms must be highly reliable to maintain trust.
-
-### **3. Technological Challenges**
-- **Scalability**: Handling large volumes of real-time interactions without performance degradation.
-- **Blockchain Gas Fees**: High Ethereum transaction fees can impact Notcoin micropayments.
-
-### **4. Financial Challenges**
-- **Initial Costs**: High development costs for AI, blockchain, and real-time features.
-- **Monetisation**: Balancing profitability with affordability for users.
-
-### **5. User Challenges**
-- **Education and Training**: Helping users understand blockchain wallets and predictive maintenance tools.
-- **Retention**: Keeping engineers and customers engaged long-term.
-
-
-
-## **🔧 Recent Innovations**
-
-- **Live Updates with WebSocket Integration**:
-  - Real-time updates for task assignments, notifications, and engineer responses.
-  - Visualised through dynamic data flow diagrams with Plotly and WebSockets.
-- **RAMS and SLA Features**:
-  - Full integration of risk assessments, compliance checks, and service-level agreements for transparency and safety.
-
-
-
-## **Ready to Join Us?**
-[Apply Here](mailto:info@notfallengineers.com?subject=Join%20Notfall%20Engineers&body=I%20am%20interested%20in%20joining%20Notfall%20Engineers.%20Please%20provide%20more%20details.)
-
